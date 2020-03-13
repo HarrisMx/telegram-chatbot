@@ -5,9 +5,9 @@ from person import Person
 class MoreBot_DB(Person):
 
     def __init__(self):
-        self.user = 'mxolisi'
-        self.password = 'Mx@lisi7'
-        self.host = '160.153.133.158'
+        self.user = 'user_name'
+        self.password = 'XXXXXX'
+        self.host = ''
         self.database = 'more_bot'
         self.conn = ""
         self._query_execute = ""
